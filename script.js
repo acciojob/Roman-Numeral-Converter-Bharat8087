@@ -23,7 +23,6 @@ function convertToRoman(num) {
 
 console.log(convertToRoman(14));   
 console.log(convertToRoman(798));  
-
-console.log(convertToRoman(36));
+console.log(convertToRoman(36));   
 
 module.exports = convertToRoman;
